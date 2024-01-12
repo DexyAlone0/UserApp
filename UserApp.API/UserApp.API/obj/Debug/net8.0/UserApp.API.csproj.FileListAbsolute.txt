@@ -1,0 +1,7 @@
+C:\Users\TURKBELGE\source\repos\UserApp.API\UserApp.API\obj\Debug\net8.0\UserApp.API.csproj.AssemblyReference.cache
+C:\Users\TURKBELGE\source\repos\UserApp.API\UserApp.API\obj\Debug\net8.0\UserApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TURKBELGE\source\repos\UserApp.API\UserApp.API\obj\Debug\net8.0\UserApp.API.AssemblyInfoInputs.cache
+C:\Users\TURKBELGE\source\repos\UserApp.API\UserApp.API\obj\Debug\net8.0\UserApp.API.AssemblyInfo.cs
+C:\Users\TURKBELGE\source\repos\UserApp.API\UserApp.API\obj\Debug\net8.0\UserApp.API.csproj.CoreCompileInputs.cache
+C:\Users\TURKBELGE\source\repos\UserApp.API\UserApp.API\obj\Debug\net8.0\UserApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TURKBELGE\source\repos\UserApp.API\UserApp.API\obj\Debug\net8.0\UserApp.API.MvcApplicationPartsAssemblyInfo.cache
